@@ -1,0 +1,42 @@
+/* Container for the project squares */
+.portfolio-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Each project card */
+  .project-square {
+    background-color: #f9f9f9;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    aspect-ratio: 1; /* Ensures the card remains square */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .project-square:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Styling for the project image */
+  .project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  /* Styling for the GitHub link */
+  .github-link {
+    text-decoration: none;
+    color: #007acc;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
