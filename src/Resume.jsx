@@ -5,14 +5,14 @@ function Resume() {
     <div style={{ textAlign: "center", padding: "40px 20px" }}>
       <h2>Resume</h2>
       <img 
-        src="PICS/Screenshot 2025-02-12 013543.png" 
+        src="/PICS/Screenshot 2025-02-12 013543.png" 
         alt="My Resume" 
         style={{ width: "80%", maxWidth: "600px", border: "1px solid #ccc", borderRadius: "8px", marginBottom: "20px" }}
       />
       <br />
       <a 
-        href="public/PICS/Screenshot 2025-02-12 013543.png" 
-        download="PICS/Screenshot 2025-02-12 013543.png" 
+        href="/PICS/Screenshot 2025-02-12 013543.png" 
+        download="/PICS/Screenshot 2025-02-12 013543.png" 
         style={{ display: "inline-block", marginBottom: "40px", padding: "10px 20px", backgroundColor: "#007acc", color: "#fff", textDecoration: "none", borderRadius: "4px" }}
       >
         Download Resume
