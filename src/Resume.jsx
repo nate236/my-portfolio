@@ -5,14 +5,14 @@ function Resume() {
     <div style={{ textAlign: "center", padding: "40px 20px" }}>
       <h2>Resume</h2>
       <img 
-        src="/PICS/Screenshot 2025-02-12 013543.png" 
+        src="https://media.licdn.com/dms/image/v2/D4E2DAQFpBl3Bt1zNBw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1710873128426?e=1740614400&v=beta&t=gHTFAJEkQmE4cANS3xJM1oIoFCpuqpHzvHMRqibPiNI" 
         alt="My Resume" 
         style={{ width: "80%", maxWidth: "600px", border: "1px solid #ccc", borderRadius: "8px", marginBottom: "20px" }}
       />
       <br />
       <a 
-        href="/PICS/Screenshot 2025-02-12 013543.png" 
-        download="/PICS/Screenshot 2025-02-12 013543.png" 
+        href="https://media.licdn.com/dms/image/v2/D4E2DAQFpBl3Bt1zNBw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1710873128426?e=1740614400&v=beta&t=gHTFAJEkQmE4cANS3xJM1oIoFCpuqpHzvHMRqibPiNI" 
+        download="https://media.licdn.com/dms/image/v2/D4E2DAQFpBl3Bt1zNBw/profile-treasury-document-images_800/profile-treasury-document-images_800/1/1710873128426?e=1740614400&v=beta&t=gHTFAJEkQmE4cANS3xJM1oIoFCpuqpHzvHMRqibPiNI" 
         style={{ display: "inline-block", marginBottom: "40px", padding: "10px 20px", backgroundColor: "#007acc", color: "#fff", textDecoration: "none", borderRadius: "4px" }}
       >
         Download Resume
