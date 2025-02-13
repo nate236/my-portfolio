@@ -16,7 +16,7 @@ As I apply for jobs or freelance, my portfolio becomes more than just a collecti
 
 ## Usage
 
-To use this application, simply goto [https://legendary-mandazi-91c797.netlify.app/](https://thunderous-tapioca-0a8ebe.netlify.app/)
+To use this application, simply goto [https://legendary-mandazi-91c797.netlify.app/](https://legendary-mandazi-91c797.netlify.app/)
 
 To view this code got to my github repo [https://github.com/nate236/my-portfolio](https://github.com/nate236/my-portfolio)
 
